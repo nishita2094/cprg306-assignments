@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function studentinfo() {
+export default function Studentinfo() {
   return (
     <main>
       <h1 className="text-3xl">Name - Nishita Grover</h1>
